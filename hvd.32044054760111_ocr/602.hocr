@@ -1,0 +1,24 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/153/hvd.32044054760111/602.png"; bbox 0 0 1980 3031; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1163 276 1663 316">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1163 276 1663 316">
+     <span class='ocr_line' id='line_1_1' title="bbox 1163 276 1663 316; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 1163 278 1188 316; x_wconf 89' lang='grc'>3</span> <span class='ocrx_word' id='word_1_2' title='bbox 1221 277 1330 315; x_wconf 86' lang='grc'>2044</span> <span class='ocrx_word' id='word_1_3' title='bbox 1362 276 1444 314; x_wconf 91' lang='lat'>054</span> <span class='ocrx_word' id='word_1_4' title='bbox 1476 276 1663 314; x_wconf 86' lang='grc'>760111</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 574 2802 1040 3014">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 588 2817 1037 3011">
+     <span class='ocr_line' id='line_1_2' title="bbox 591 2817 1024 2847; baseline -0.005 -15"><span class='ocrx_word' id='word_1_5' title='bbox 591 2834 603 2847; x_wconf 49' lang='grc' dir='ltr'><em>Δ</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 657 2826 664 2832; x_wconf 75' lang='lat'><strong><em>.</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1006 2817 1024 2830; x_wconf 55' lang='grc' dir='ltr'>ε,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 588 2860 594 2867; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 588 2860 594 2867; x_wconf 78' lang='lat' dir='ltr'><strong><em>v</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1033 2873 1035 2880; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1033 2873 1035 2880; x_wconf 73' lang='grc'><strong><em>4</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1024 2934 1037 2942; baseline 0 -4"><span class='ocrx_word' id='word_1_10' title='bbox 1024 2934 1037 2942; x_wconf 84' lang='grc'>,,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 593 2980 1014 3001; baseline 0.002 -15"><span class='ocrx_word' id='word_1_11' title='bbox 593 2980 606 2995; x_wconf 50' lang='lat'>.4,</span> <span class='ocrx_word' id='word_1_12' title='bbox 956 2989 995 3001; x_wconf 32' lang='lat' dir='ltr'>In,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1010 2985 1014 2987; x_wconf 68' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 920 3000 1000 3011; baseline 0 -5"><span class='ocrx_word' id='word_1_14' title='bbox 920 3003 926 3009; x_wconf 31' lang='grc' dir='ltr'>ν.</span> <span class='ocrx_word' id='word_1_15' title='bbox 954 3003 962 3007; x_wconf 47' lang='grc' dir='ltr'><em>μ</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 987 3000 1000 3011; x_wconf 31' lang='grc'><em>&gt;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>

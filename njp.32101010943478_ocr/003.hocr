@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/153/njp.32101010943478/003.png"; bbox 0 0 1913 3074; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 736 1726 1002 1766">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 736 1726 1002 1766">
+     <span class='ocr_line' id='line_1_1' title="bbox 736 1726 1002 1766; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 736 1726 1002 1766; x_wconf 59' lang='lat' dir='ltr'>mm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 1204 1144 1854">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 28 1271 1078 1805">
+     <span class='ocr_line' id='line_1_2' title="bbox 750 1271 978 1544; baseline 0.022 -82"><span class='ocrx_word' id='word_1_2' title='bbox 750 1271 978 1544; x_wconf 38' lang='grc' dir='ltr'>ξ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 30 1562 1078 1661; baseline -0.01 -20"><span class='ocrx_word' id='word_1_3' title='bbox 647 1588 1078 1634; x_wconf 80' lang='lat' dir='ltr'>PRINCETON</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 28 1657 1054 1726; baseline -0.015 -15"><span class='ocrx_word' id='word_1_4' title='bbox 670 1660 706 1700; x_wconf 91' lang='lat' dir='ltr'>U</span> <span class='ocrx_word' id='word_1_5' title='bbox 718 1660 759 1700; x_wconf 92' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_6' title='bbox 770 1659 862 1698; x_wconf 82' lang='lat' dir='ltr'>IVE</span> <span class='ocrx_word' id='word_1_7' title='bbox 876 1658 941 1698; x_wconf 86' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_8' title='bbox 955 1657 1054 1697; x_wconf 88' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 29 1720 1002 1805; baseline 0.003 -43"><span class='ocrx_word' id='word_1_9' title='bbox 736 1726 1002 1766; x_wconf 86' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
